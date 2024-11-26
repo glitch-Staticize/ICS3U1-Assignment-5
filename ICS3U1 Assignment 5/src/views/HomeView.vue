@@ -13,7 +13,7 @@ import { RouterLink } from 'vue-router';
                 </div>
             </div>
             <div class="hero-content">
-                <h2>Watch Anywhere, Anytime.</h2>
+                <h2>Watch Anywhere Anytime.</h2>
                 <p>Ready to watch? Enter your email to create or restart your membership.</p>
                 <input type="email" placeholder="Email address" class="email-input">
                 <button class="button join">Get Started</button>
